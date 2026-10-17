@@ -8,6 +8,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.07,
     "video_file": "podcast_ep1_20261015_182743.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "L'Art de la Décision Contre-Intuitive : Réussir là où les autres échouent",
+    "date": "2026-10-17T11:55:57.702819",
+    "duration_sec": 1206.24,
+    "duration_min": 20.1,
+    "video_file": "podcast_ep2_20261017_113802.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
