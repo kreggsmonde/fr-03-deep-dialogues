@@ -16,5 +16,14 @@
     "duration_min": 20.1,
     "video_file": "podcast_ep2_20261017_113802.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "L'Art de l'Écoute Profonde : Comprendre l'Autre pour Mieux se Comprendre Soi-même",
+    "date": "2026-10-18T04:51:06.883519",
+    "duration_sec": 1277.62,
+    "duration_min": 21.29,
+    "video_file": "podcast_ep3_20261018_043454.mp4",
+    "platform": "Facebook"
   }
 ]
