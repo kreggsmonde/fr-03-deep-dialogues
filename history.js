@@ -26,6 +26,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.29,
     "video_file": "podcast_ep3_20261018_043454.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "L'Éveil de la Conscience Corporelle : La Sagesse du Corps dans Nos Décisions",
+    "date": "2026-10-18T05:33:19.200039",
+    "duration_sec": 1135.27,
+    "duration_min": 18.92,
+    "video_file": "podcast_ep4_20261018_051420.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
