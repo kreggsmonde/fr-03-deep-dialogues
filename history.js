@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.92,
     "video_file": "podcast_ep4_20261018_051420.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "La Force Tranquille : Cultiver la Résilience Mentale face aux Épreuves",
+    "date": "2026-10-19T05:38:08.157104",
+    "duration_sec": 1262.42,
+    "duration_min": 21.04,
+    "video_file": "podcast_ep5_20261019_052536.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
