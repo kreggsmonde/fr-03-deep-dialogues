@@ -43,5 +43,14 @@
     "duration_min": 21.04,
     "video_file": "podcast_ep5_20261019_052536.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "La Symphonie des Émotions : Diriger l'Orchestre Intérieur pour une Vie Équilibrée",
+    "date": "2026-10-20T05:41:24.065199",
+    "duration_sec": 1285.32,
+    "duration_min": 21.42,
+    "video_file": "podcast_ep6_20261020_052748.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
