@@ -52,5 +52,14 @@
     "duration_min": 21.42,
     "video_file": "podcast_ep6_20261020_052748.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 7,
+    "topic": "L'Égarement du Soi : Comment Reconnaître et Surmonter les Illusions Personnelles",
+    "date": "2026-10-21T05:44:28.060832",
+    "duration_sec": 1235.78,
+    "duration_min": 20.6,
+    "video_file": "podcast_ep7_20261021_052619.mp4",
+    "platform": "Facebook"
   }
 ]
