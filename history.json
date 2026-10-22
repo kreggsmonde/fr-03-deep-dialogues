@@ -61,5 +61,14 @@
     "duration_min": 20.6,
     "video_file": "podcast_ep7_20261021_052619.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "L'Architecture Invisible de Nos Croyances : Comment Redessiner nos Pensées Fondamentales",
+    "date": "2026-10-22T05:54:02.999460",
+    "duration_sec": 1328.52,
+    "duration_min": 22.14,
+    "video_file": "podcast_ep8_20261022_053206.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
