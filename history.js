@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.14,
     "video_file": "podcast_ep8_20261022_053206.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 9,
+    "topic": "Le Miroir Déformant de la Perception : Comment notre réalité est-elle construite ?",
+    "date": "2026-10-23T05:51:44.568494",
+    "duration_sec": 1202.95,
+    "duration_min": 20.05,
+    "video_file": "podcast_ep9_20261023_053025.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
