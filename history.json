@@ -79,5 +79,14 @@
     "duration_min": 20.05,
     "video_file": "podcast_ep9_20261023_053025.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "L'Art subtil de l'Auto-Compassion : Cultiver la bienveillance envers soi pour une vie plus riche",
+    "date": "2026-10-24T05:29:32.265683",
+    "duration_sec": 1233.05,
+    "duration_min": 20.55,
+    "video_file": "podcast_ep10_20261024_050905.mp4",
+    "platform": "Facebook"
   }
 ]
