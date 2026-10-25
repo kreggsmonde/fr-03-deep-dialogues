@@ -89,6 +89,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.55,
     "video_file": "podcast_ep10_20261024_050905.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "L'Ancre et la Voile : Naviguer entre Stabilité et Changement dans une Vie en Mouvement",
+    "date": "2026-10-25T05:39:17.393720",
+    "duration_sec": 1236.07,
+    "duration_min": 20.6,
+    "video_file": "podcast_ep11_20261025_052516.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
