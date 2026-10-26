@@ -97,5 +97,14 @@
     "duration_min": 20.6,
     "video_file": "podcast_ep11_20261025_052516.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 12,
+    "topic": "La Sagesse des Silences : Décrypter les Messages Inaudibles pour une Communication Authentique",
+    "date": "2026-10-26T05:49:57.091021",
+    "duration_sec": 1192.63,
+    "duration_min": 19.88,
+    "video_file": "podcast_ep12_20261026_052950.mp4",
+    "platform": "Facebook"
   }
 ]
