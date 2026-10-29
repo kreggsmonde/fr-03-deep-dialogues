@@ -115,5 +115,14 @@
     "duration_min": 19.59,
     "video_file": "podcast_ep13_20261027_054535.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 14,
+    "topic": "Le Paradoxe de l'Attention : Comment Retrouver le Contrôle dans un Monde Hyperconnecté",
+    "date": "2026-10-29T06:54:26.569522",
+    "duration_sec": 1280.23,
+    "duration_min": 21.34,
+    "video_file": "podcast_ep14_20261029_063435.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
