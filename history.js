@@ -125,6 +125,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.34,
     "video_file": "podcast_ep14_20261029_063435.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 15,
+    "topic": "Le Vertige de l'Infini : Comment Embrasser l'Incertitude pour une Liberté Retrouvée",
+    "date": "2026-10-30T06:48:48.690595",
+    "duration_sec": 1137.17,
+    "duration_min": 18.95,
+    "video_file": "podcast_ep15_20261030_063425.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
