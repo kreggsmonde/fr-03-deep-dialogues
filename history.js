@@ -143,6 +143,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.08,
     "video_file": "podcast_ep16_20261031_062340.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "L'Art de la Persuasion Subtile : Influencer avec Éthique et Intelligence",
+    "date": "2026-11-01T07:15:54.727337",
+    "duration_sec": 1232.45,
+    "duration_min": 20.54,
+    "video_file": "podcast_ep17_20261101_065616.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
