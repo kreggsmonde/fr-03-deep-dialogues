@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.54,
     "video_file": "podcast_ep17_20261101_065616.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 18,
+    "topic": "L'Art de Cultiver l'Optimisme Réaliste : Naviguer entre Espoir et Pragmatisme",
+    "date": "2026-11-02T07:12:51.549015",
+    "duration_sec": 1146.29,
+    "duration_min": 19.1,
+    "video_file": "podcast_ep18_20261102_065622.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
