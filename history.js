@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.15,
     "video_file": "podcast_ep19_20261103_071950.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 20,
+    "topic": "Le Chemin Étroit de la Sagesse : Discernement et Discernement Face aux Choix Cruciaux",
+    "date": "2026-11-04T07:19:44.475734",
+    "duration_sec": 1098.74,
+    "duration_min": 18.31,
+    "video_file": "podcast_ep20_20261104_070223.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
