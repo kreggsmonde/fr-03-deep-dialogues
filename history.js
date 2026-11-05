@@ -179,6 +179,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.31,
     "video_file": "podcast_ep20_20261104_070223.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "La Danse des Perspectives : Comment Voir le Monde à Travers d'Autres Yeux",
+    "date": "2026-11-05T07:40:16.230816",
+    "duration_sec": 1153.73,
+    "duration_min": 19.23,
+    "video_file": "podcast_ep21_20261105_072826.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
