@@ -187,5 +187,14 @@
     "duration_min": 19.23,
     "video_file": "podcast_ep21_20261105_072826.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 22,
+    "topic": "L'Art de la Résilience Narrative : Comment Réécrire Votre Histoire Pour Transformer Votre Réalité",
+    "date": "2026-11-06T07:40:05.520665",
+    "duration_sec": 1251.17,
+    "duration_min": 20.85,
+    "video_file": "podcast_ep22_20261106_072729.mp4",
+    "platform": "None"
   }
 ]
