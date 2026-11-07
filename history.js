@@ -197,6 +197,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.85,
     "video_file": "podcast_ep22_20261106_072729.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 23,
+    "topic": "L'Art de Naviguer le Flux Constant : Comment Ancrer sa Sérénité dans le Tourbillon Moderne",
+    "date": "2026-11-07T06:52:19.105219",
+    "duration_sec": 1218.41,
+    "duration_min": 20.31,
+    "video_file": "podcast_ep23_20261107_064015.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
