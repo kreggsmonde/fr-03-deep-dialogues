@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.31,
     "video_file": "podcast_ep23_20261107_064015.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 24,
+    "topic": "L'Art de l'Apprentissage Continu : Cultiver un Esprit Curieux et Adaptable",
+    "date": "2026-11-08T07:06:45.553167",
+    "duration_sec": 1274.26,
+    "duration_min": 21.24,
+    "video_file": "podcast_ep24_20261108_064625.mp4",
+    "platform": "YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
