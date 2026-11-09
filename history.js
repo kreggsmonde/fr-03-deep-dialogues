@@ -215,6 +215,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.24,
     "video_file": "podcast_ep24_20261108_064625.mp4",
     "platform": "YouTube"
+  },
+  {
+    "episode": 25,
+    "topic": "La Clarté Éclairée : Comment Dépasser le Brouillard Mental pour des Décisions Audacieuses",
+    "date": "2026-11-09T07:37:03.784822",
+    "duration_sec": 1207.13,
+    "duration_min": 20.12,
+    "video_file": "podcast_ep25_20261109_071817.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
