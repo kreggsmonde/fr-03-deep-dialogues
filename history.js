@@ -224,6 +224,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.12,
     "video_file": "podcast_ep25_20261109_071817.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 26,
+    "topic": "Le Labyrinthe de la Motivation : Comment Trouver et Maintenir son Feu Intérieur",
+    "date": "2026-11-10T08:03:26.720067",
+    "duration_sec": 1284.29,
+    "duration_min": 21.4,
+    "video_file": "podcast_ep26_20261110_074950.mp4",
+    "platform": "YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
