@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.4,
     "video_file": "podcast_ep26_20261110_074950.mp4",
     "platform": "YouTube"
+  },
+  {
+    "episode": 27,
+    "topic": "L'Art de la Discrétion Mentale : Protéger son Espace Intérieur face à la Sollicitation Constante",
+    "date": "2026-11-11T07:34:00.367659",
+    "duration_sec": 1244.64,
+    "duration_min": 20.74,
+    "video_file": "podcast_ep27_20261111_071806.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
