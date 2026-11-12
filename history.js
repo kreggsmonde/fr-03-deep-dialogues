@@ -242,6 +242,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.74,
     "video_file": "podcast_ep27_20261111_071806.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "L'Art de la Dissociation Lucidité : Se Détacher Pour Mieux Appréhender Sa Réalité",
+    "date": "2026-11-12T08:07:24.378286",
+    "duration_sec": 1198.89,
+    "duration_min": 19.98,
+    "video_file": "podcast_ep28_20261112_074908.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
