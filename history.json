@@ -250,5 +250,14 @@
     "duration_min": 19.98,
     "video_file": "podcast_ep28_20261112_074908.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 29,
+    "topic": "L'Art de la Sagesse Paradoxale : Réconcilier les Opposés pour une Pensée Plus Riche",
+    "date": "2026-11-13T07:45:07.986091",
+    "duration_sec": 1179.79,
+    "duration_min": 19.66,
+    "video_file": "podcast_ep29_20261113_072642.mp4",
+    "platform": "Facebook"
   }
 ]
