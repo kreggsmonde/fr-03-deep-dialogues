@@ -259,5 +259,14 @@
     "duration_min": 19.66,
     "video_file": "podcast_ep29_20261113_072642.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "L'Art de la Vulnérabilité Authentique : Se Révéler Pour Mieux Se Connecter",
+    "date": "2026-11-14T07:21:28.361392",
+    "duration_sec": 1175.73,
+    "duration_min": 19.6,
+    "video_file": "podcast_ep30_20261114_070648.mp4",
+    "platform": "Facebook"
   }
 ]
