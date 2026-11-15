@@ -268,5 +268,14 @@
     "duration_min": 19.6,
     "video_file": "podcast_ep30_20261114_070648.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "L'Écoute Intérieure : Savoir Décoder les Messages Subtils de Votre Âme",
+    "date": "2026-11-15T07:33:20.719322",
+    "duration_sec": 1196.23,
+    "duration_min": 19.94,
+    "video_file": "podcast_ep31_20261115_071758.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
