@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.94,
     "video_file": "podcast_ep31_20261115_071758.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 32,
+    "topic": "L'Art de l'Adaptabilité Émotionnelle : Naviguer les Marées de nos Sentiments",
+    "date": "2026-11-16T07:35:52.218995",
+    "duration_sec": 1178.04,
+    "duration_min": 19.63,
+    "video_file": "podcast_ep32_20261116_072349.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
