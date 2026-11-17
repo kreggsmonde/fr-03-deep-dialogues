@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.63,
     "video_file": "podcast_ep32_20261116_072349.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "L'Art de Cultiver le Détachement : Gagner en Sérénité face à l'Agitation du Monde",
+    "date": "2026-11-17T08:48:41.381547",
+    "duration_sec": 1194.86,
+    "duration_min": 19.91,
+    "video_file": "podcast_ep33_20261117_083632.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
