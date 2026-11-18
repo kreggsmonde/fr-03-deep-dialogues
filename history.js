@@ -296,6 +296,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.91,
     "video_file": "podcast_ep33_20261117_083632.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 34,
+    "topic": "L'Art de la Lucidité Créative : Accéder à l'Inspiration Profonde et la Cultiver",
+    "date": "2026-11-18T08:12:28.792013",
+    "duration_sec": 1192.94,
+    "duration_min": 19.88,
+    "video_file": "podcast_ep34_20261118_080006.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
