@@ -305,6 +305,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.88,
     "video_file": "podcast_ep34_20261118_080006.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "L'Art de la Reconnexion : Retrouver le Fil Perdu de Soi",
+    "date": "2026-11-19T08:15:27.249123",
+    "duration_sec": 1163.47,
+    "duration_min": 19.39,
+    "video_file": "podcast_ep35_20261119_080256.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
