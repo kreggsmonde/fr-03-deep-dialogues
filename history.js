@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.39,
     "video_file": "podcast_ep35_20261119_080256.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 36,
+    "topic": "L'Art de l'Auto-Observation : Observer Sans Juger Pour Mieux Se Comprendre",
+    "date": "2026-11-20T08:10:03.742087",
+    "duration_sec": 1223.62,
+    "duration_min": 20.39,
+    "video_file": "podcast_ep36_20261120_075119.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
