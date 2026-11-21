@@ -322,5 +322,14 @@
     "duration_min": 20.39,
     "video_file": "podcast_ep36_20261120_075119.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "L'Art de Naviguer les Eaux Troubles de la Comparaison Sociale",
+    "date": "2026-11-21T08:03:08.959660",
+    "duration_sec": 1243.32,
+    "duration_min": 20.72,
+    "video_file": "podcast_ep37_20261121_074810.mp4",
+    "platform": "Facebook"
   }
 ]
